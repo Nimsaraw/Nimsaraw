@@ -21,7 +21,7 @@
 
 
 
-| ![Nimsara's github stats](https://github-readme-stats.vercel.app/api?username=Nimsarawshow_icons=true&theme=tokyonight) | ![Nimsara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimsaraw&theme=tokyonight) |
+| ![Nimsara's github stats](https://github-readme-stats.vercel.app/api?username=Nimsaraw&show_icons=true&theme=tokyonight) | ![Nimsara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimsaraw&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimsaraw&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nimsaraw&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
