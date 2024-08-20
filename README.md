@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsaraw&label=Profile%20views&color=0e75b6&style=flat" alt="nimsaraw" /> </p>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🌱 I’m currently learning **Java Institute**
 
 - 📫 How to reach me **nimsarawickramasinghe000@gmail.com**
