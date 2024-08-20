@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsaraw&label=Profile%20views&color=0e75b6&style=flat" alt="nimsaraw" /> </p>
 
-- 🌱 I’m currently learning **Java Insitute**
+- 🌱 I’m currently learning **Java Institute**
 
 - 📫 How to reach me **nimsarawickramasinghe000@gmail.com**
 
@@ -26,3 +26,10 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimsaraw&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nimsaraw&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+--
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
