@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🌱 I’m currently learning **Java Institute**
 
-- 📫 How to reach me **nimsarawickramasinghe000@gmail.com**
+- 📫 How to reach me **yuwangawickramasinghe000@gmail.com**
 
 - ⚡ Fun fact **Call me as Nimsara**
 </br>
