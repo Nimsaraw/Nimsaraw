@@ -22,9 +22,7 @@
 </p>
 </br>
 </br>
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
-</br>
+
 
 
 
