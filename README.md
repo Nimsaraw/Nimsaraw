@@ -22,6 +22,10 @@
 </p>
 </br>
 </br>
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+</br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
