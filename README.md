@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimsara Wickramasinghe</h1>
+<h1 align="center">Hi 👋, I'm Yuwanga Wickramasinghe</h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 </br>
 </br>
