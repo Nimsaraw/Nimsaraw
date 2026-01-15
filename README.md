@@ -19,7 +19,7 @@
 <a href="https://fb.com/yuwanga wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuwanga wickramasinghe" height="30" width="40" /></a>
   <a href="https://nimsaraw.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Nimsara wickramasinghe" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/31758090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31758090" height="30" width="40" /></a>
-       <a href="https://yuwangawickramasinghe.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/yuwangawickramasinghe.vercel.app.svg" alt="31758090" height="30" width="40" /></a>
+       <a href="https://yuwangawickramasinghe.vercel.app/" target="blank"><img align="center" src="https://i.postimg.cc/wTrRQfXV/Screenshot-2026-01-14-214301.png" alt="31758090" height="30" width="40" /></a>
 </p>
 </br>
 </br>
