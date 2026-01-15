@@ -10,7 +10,7 @@
 - 📫 How to reach me **
       yuwangawickramasinghe000@gmail.com**
 
-- ⚡ Fun fact **Call me as Nimsara**
+- ⚡ Fun fact **Call me as Yuwanga**
 </br>
 
 <h3 align="left">Connect with me:</h3>
