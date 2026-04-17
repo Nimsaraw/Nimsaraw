@@ -1,4 +1,22 @@
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi 👋, I'm Yuwanga Wickramasinghe</h1>
+<h3 align="center">A passionate Web developer from Sri Lanka</h3>
+</br>
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsaraw&label=Profile%20views&color=0e75b6&style=flat" alt="nimsaraw" /> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+- 🌱 I’m currently learning **Java Institute**
+
+- 📫 How to reach me **
+      yuwangawickramasinghe000@gmail.com**
+
+- ⚡ Fun fact **Call me as Yuwanga**
+
+- </br>
+</br>
+
+-
+- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
