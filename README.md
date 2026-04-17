@@ -84,12 +84,6 @@
 ---
 
 
-<p align="left">
-
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="transition:0.3s;"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-
-</p>
-
 <!-- Neon Glow Effect -->
 
 <p align="left">
