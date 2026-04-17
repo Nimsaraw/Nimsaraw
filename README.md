@@ -43,45 +43,45 @@
 
 <br>
 
----
 
-## 🚀 Tech Stack
 
----
+##  Tech Stack
+
+
 
 ### 💻 Programming Languages, Frameworks, Tools & Platforms
 
-#### 🖥️ UI/UX Technologies & Frameworks
+####  UI/UX Technologies & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 </p>
 
----
 
-#### ⚙️ Backend Technologies & Frameworks
+
+####  Backend Technologies & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,spring,nodejs,dotnet,go,python,cpp,c,ts&theme=dark" />
 </p>
 
----
 
-#### 🗄️ Database & Cloud Technologies
+
+####  Database & Cloud Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,aws,postgres&theme=dark" />
 </p>
 
----
 
-#### 🛠️ IDEs & Platforms
+
+####  IDEs & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,unity,github,git,azure,arduino&theme=dark" />
 </p>
 
----
+
 
 
 <!-- Neon Glow Effect -->
