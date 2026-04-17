@@ -14,8 +14,6 @@
   <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech+🚀" />
 </p>
- </br>
-
 
 - <h3 align="left">Connect with me:</h3>
 
