@@ -13,17 +13,7 @@
 - ⚡ Fun fact **Call me as Yuwanga**
 </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" width="200">
-<a href="https://www.linkedin.com/in/yuwanga-wickramasinghe-8067b8314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimsara wickramasinghe" height="30" width="40" /></a>
-      <a href="https://yuwangawickramasinghe.vercel.app/" target="blank"><img align="center" src="https://i.postimg.cc/wjNwLbt0/Chat-GPT-Image-Jan-15-2026-01-01-34-PM.png" height="30" width="40" /></a>
-<a href="https://fb.com/yuwanga wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuwanga wickramasinghe" height="30" width="40" /></a>
-  <a href="https://nimsaraw.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Nimsara wickramasinghe" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/31758090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31758090" height="30" width="40" /></a>
-       
-</p>
-</br>
-</br>
+
 
 
 
