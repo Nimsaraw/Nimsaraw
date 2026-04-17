@@ -11,8 +11,10 @@
       yuwangawickramasinghe000@gmail.com**
 
 - ⚡ Fun fact **Call me as Yuwanga**
+  <p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech+🚀" />
+</p>
  </br>
-</br>
 
 
 - <h3 align="left">Connect with me:</h3>
@@ -81,16 +83,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,unity,github,git,azure,arduino&theme=dark" />
 </p>
 
-
-
-
-<!-- Neon Glow Effect -->
-
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech+🚀" />
-</p>
-
-</br>
 </br>
 
 
