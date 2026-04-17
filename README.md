@@ -83,11 +83,18 @@
 
 </br>
 
+##  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimsaraw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</p>
 
-| ![Nimsara's github stats](https://github-readme-stats.vercel.app/api?username=Nimsaraw&show_icons=true&theme=tokyonight) | ![Nimsara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimsaraw&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimsaraw&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nimsaraw&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimsaraw&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimsaraw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+</p>
 
 </br>
 
