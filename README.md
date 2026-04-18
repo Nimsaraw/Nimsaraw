@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuwanga Wickramasinghe</h1>
-<h3 align="center">A passionate Web developer from Sri Lanka</h3>
+<p align="center">
+<img marging-left="50"src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech+🚀" />
+</p>
 </br>
 </br>
 
@@ -11,9 +13,7 @@
       yuwangawickramasinghe000@gmail.com**
 
 - ⚡ Fun fact **Call me as Yuwanga**
-  <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech+🚀" />
-</p>
+  
 
 - <h3 align="left">Connect with me:</h3>
 
